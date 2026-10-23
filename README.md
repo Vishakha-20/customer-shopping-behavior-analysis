@@ -28,6 +28,7 @@ An end-to-end customer shopping behavior analysis project using Python, SQL, and
 5. **Reporting:** Document findings and possible business implications.
 6. **Presentation:** Organize the project findings for communication.
 7. **GitHub:** Maintain project files and documentation.
+ <img width="1942" height="809" alt="image" src="https://github.com/user-attachments/assets/f4600093-389e-485e-bd64-904b98122783" />
 
 ## Repository Contents
 
